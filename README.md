@@ -2,5 +2,7 @@
 
 <h1>My Achievements and Participations:</h1>
 
-<img src="images/my certificates/udemy.jpg" alt="">
-<img src="images/my certificates/coursera.PNG" alt="">
+<img src="participation1.jpeg" alt="">
+<img src="participation2.jpeg" alt="">
+<img src="participation3.jpeg" alt="">
+<img src="datathrone.png" alt="">
